@@ -1,7 +1,7 @@
 package ex13_Classe_Metodos_Final;
 
 public class Jutsu {
-   private String nome;
+    private String nome;
     private int nivelChakra;
 
     public void executar() {
