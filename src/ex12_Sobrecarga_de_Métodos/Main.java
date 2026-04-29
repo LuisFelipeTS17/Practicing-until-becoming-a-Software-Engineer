@@ -23,12 +23,6 @@ public class Main {
         felipe.atacar();
         felipe.atacar();
 
-       felipe.atacar("churiken");
-        felipe.atacar("churiken");
-        felipe.atacar("churiken");
-        felipe.atacar("churiken");
-        felipe.atacar("churiken");
-        felipe.atacar("churiken");
 
 
     }
