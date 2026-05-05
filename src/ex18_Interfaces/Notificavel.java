@@ -1,6 +1,6 @@
 package ex18_Interfaces;
 
-public interface Notificacao {
+public interface Notificavel {
     void enviar(String mensagem);
-    void getCanal();
+    String getCanal();
 }

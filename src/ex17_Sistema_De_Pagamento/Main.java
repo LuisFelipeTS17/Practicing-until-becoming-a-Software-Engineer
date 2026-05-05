@@ -13,6 +13,5 @@ public class Main {
         for (Pagamento  pagamento : pagamentos) {
             pagamento.exibirResumo();
         }
-
     }
 }
