@@ -7,11 +7,11 @@ public class Main {
 
         CarroConectado mustang = new CarroConectado("Ford mustang", "STR3A21");
         mustang.getStatusConexao();
-        mustang.conectarRede("Conectado");
+        mustang.conectarRede("Wifi");
 
         CarroEletricoConectado teslaTwo = new CarroEletricoConectado("TeslaTwo", "TSB3I21");
         teslaTwo.carregarBateria();
-        teslaTwo.conectarRede("Conectado");
+        teslaTwo.conectarRede("Bluetooth");
         System.out.println(teslaTwo.getNivelBateria());
         teslaTwo.getStatusConexao();
 
